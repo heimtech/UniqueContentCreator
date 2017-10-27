@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+
+textarea {
+  display: block;
+  width: 100% !important;
+  height: 300px !important;
+}
+
+
+button#convertText {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
